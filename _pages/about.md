@@ -23,9 +23,9 @@ My research interest includes Spatial-Temporal Data Mining and Uncertainty Quant
 
 I“m willing to share interesting papers about spatial-temporal data and time series. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "时空探索之旅" ，Here is the QR Code of official accout：
 
-![时空探索之旅](../images/ST_exploration.jpg#pic_center)
+![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+ <a href='https://scholar.google.com/citations?user=OgLJzXAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
