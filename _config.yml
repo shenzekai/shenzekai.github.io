@@ -26,9 +26,10 @@ author:
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  pubmed           :  
+  googlescholar    : "https://scholar.google.com/citations?user=OgLJzXAAAAAJ"
+  email            : "zkshen@bjtu.edu.cn"
+  zhihu            :  "https://www.zhihu.com/people/no1wds"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
