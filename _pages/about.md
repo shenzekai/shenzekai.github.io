@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Zekai Shen(申泽楷)'s Home Page I received the B.S. degree from Beijing Jiaotong University, in 2022. I am currently pursuing my master degree in School of Computer and Information Technology, Beijing Jiaotong University. And I am in [institute of network science and intelligent systems (INSIS)](http://insis.bjtu.edu.cn/index.html), supervised by [Shengnan Guo](http://faculty.bjtu.edu.cn/7443/) and [Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/). 
+Hi, this is Zekai Shen(申泽楷)'s Home Page I received the B.S. degree from Beijing Jiaotong University, in 2022. I am currently pursuing my master degree in School of Computer and Information Technology, Beijing Jiaotong University. And I am in [institute of network science and intelligent systems (INSIS)](http://insis.bjtu.edu.cn/index.html), supervised by [Shengnan Guo](https://faculty.bjtu.edu.cn/9685/) and [Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/). 
 
 My research interest includes Spatial-Temporal Data Mining and Uncertainty Quantification. 
 
