@@ -31,10 +31,7 @@ I“m willing to share interesting papers about spatial-temporal data and time s
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 ICDE</div><img src='../images/SSTBAN.png' alt="SSTBAN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)
-
-Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; Yiheng Huang; Huaiyu Wan
+    [Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)\\Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; Yiheng Huang; Huaiyu Wan</div></div></div>
 
 # 🎖 Honors and Awards
 # 📖 Educations
