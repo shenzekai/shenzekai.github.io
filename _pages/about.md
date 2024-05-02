@@ -25,13 +25,11 @@ I“m willing to share interesting papers about spatial-temporal data and time s
 
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
- <a href='https://scholar.google.com/citations?user=OgLJzXAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 
 # 🔥 News
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 ICDE</div><img src='..images/SSTBAN.png' alt="SSTBAN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 ICDE</div><img src='../images/SSTBAN.png' alt="SSTBAN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)
