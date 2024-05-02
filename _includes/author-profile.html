@@ -59,7 +59,7 @@
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <li><a href="https://instagram.com/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Instagram</a></li>
+      <li><a href="https://zhihu.com/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> zhihu</a></li>
       {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
@@ -155,6 +155,9 @@
       {% endif %}
       {% if author.instagram %}
         <a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.zhihu %}
+      <a href="https://zhihu.com/{{ author.instagram }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.tumblr %}
         <a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i></a>
