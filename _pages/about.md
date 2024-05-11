@@ -25,6 +25,8 @@ I“m willing to share interesting papers about spatial-temporal data and time s
 
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
+<font color='red'>I am looking for a Ph.D. position starting from Fall 2025 or Spring 2026. Please feel free to reach out if you are interested.</font>
+
 
 # 🔥 News
 # 📝 Publications 
