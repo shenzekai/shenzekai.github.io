@@ -43,11 +43,14 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 # 🎖 Honors and Awards
 
+1. First Prize Scholarship of Beijing Jiaotong University, 2022.(Top 5%)
+2. First Prize Scholarship of Beijing Jiaotong University, 2023.(Top 5%)
+
 # 📖 Educations
 - <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2022.06 - 2025.06 (expected)*,  Master,  Beijing Jiaotong University, 
 - <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2018.09 - 2022.06*, Undergraduate,  Beijing Jiaotong University. 
 
-# :school:Activities
+# :school: ​Activities
 
 * Teaching Assistant(TA), Deep Learning, BJTU, Fall 2023 (**Excellent TA**)
 * Teaching Assistant(TA), Deep Learning, BJTU, Fall 2022 (**Excellent TA**)
