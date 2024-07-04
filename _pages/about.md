@@ -53,9 +53,20 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 #  Activities
 
 * Teaching Assistant(TA), Deep Learning, BJTU, Fall 2023 (**Excellent TA**)
+
 * Teaching Assistant(TA), Deep Learning, BJTU, Fall 2022 (**Excellent TA**)
+
 * Research Guidance, College Students' Innovation Project, BJTU.
+  
   * Team Member: Yicong Zhu, Congkang Lv, Xuanting Ning. National-level (Top 10%), 2022-2023.
+  
+* AI Timer:  **Excellent volunteer**
+
+  Here are some debate videos I host.
+
+  * [Mamba：颠覆 Transformer 的全新架构？](https://www.bilibili.com/video/BV1om411q7kk/)
+  * [MiniGPT-4、表格推理、代码生成、生成式推理-来自斯坦福、北大、阿卜杜拉、达摩院的四位论文一作思辨大模型](https://www.bilibili.com/video/BV1n24y1F7kv/?share_source=copy_web&vd_source=212c550e809e1331dff1d474634abadd) 
+  * [来自国防科大、西湖、浙大、UCF的四位青年科学家共话大模型等AI前沿：AIGC、科学仿真、量化压缩感知](https://www.bilibili.com/video/BV1Zh411T7mX/?share_source=copy_web&vd_source=212c550e809e1331dff1d474634abadd)
 
 # 💬 Invited Talks
 
