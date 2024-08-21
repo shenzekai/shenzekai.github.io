@@ -19,13 +19,11 @@ redirect_from:
 
 Hi, this is Zekai Shen(申泽楷)'s Home Page I received the B.S. degree from Beijing Jiaotong University, in 2022. I am currently pursuing my master degree in School of Computer and Information Technology, Beijing Jiaotong University. And I am in [institute of network science and intelligent systems (INSIS)](http://insis.bjtu.edu.cn/index.html), supervised by [Shengnan Guo](https://faculty.bjtu.edu.cn/9685/) and [Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/). 
 
-My research interest includes Spatial-Temporal Data Mining and Uncertainty Quantification. 
+My research interest includes **Spatial-Temporal Data Mining** and **Uncertainty Quantification**. 
 
-I“m willing to share interesting papers about spatial-temporal data and time series. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "时空探索之旅" ，Here is the QR Code of official accout：
+I“m willing to share interesting papers about spatial-temporal data and time series. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "[时空探索之旅](https://mp.weixin.qq.com/s/Y0rszFAeNplIbK1X-po9Qw)" ，Here is the QR Code of official accout：
 
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
-
-<font color='red'>I am looking for a Ph.D. position starting from Fall 2025 or Spring 2026. Please feel free to reach out if you are interested.</font>
 
 
 # 🔥 News
