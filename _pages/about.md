@@ -21,7 +21,7 @@ Hi, this is Zekai Shen(申泽楷)'s Home Page I received the B.S. degree from Be
 
 My research interest includes **Spatial-Temporal Data Mining** and **Uncertainty Quantification**. 
 
-I“m willing to share interesting papers about spatial-temporal data and time series. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "[时空探索之旅](https://mp.weixin.qq.com/s/Y0rszFAeNplIbK1X-po9Qw)" ，Here is the QR Code of official accout：
+I“m willing to share interesting papers about **spatial-temporal data** and **time series**. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "[时空探索之旅](https://mp.weixin.qq.com/s/Y0rszFAeNplIbK1X-po9Qw)" ，Here is the QR Code of official accout：
 
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
