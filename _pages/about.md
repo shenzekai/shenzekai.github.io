@@ -26,7 +26,7 @@ I“m willing to share interesting papers about **spatial-temporal data** and **
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
 
-# 🔥 News
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 ICDE</div><img src='../images/SSTBAN.png' alt="SSTBAN" width="100%"></div></div>
