@@ -29,7 +29,7 @@ I“m willing to share interesting papers about **spatial-temporal data** and **
 
 # 🎉 <font color='red'>News</font>
 
-Paper "Towards An Efficient and Effective En Route Travel Time Estimation Framework" is accepted by **DASFAA 2025**! Thanks to my advisors and friends.
+* Paper "Towards An Efficient and Effective En Route Travel Time Estimation Framework" is accepted by **DASFAA 2025**! Thanks to my advisors and friends.
 
 # 📝 Publications 
 
@@ -37,6 +37,8 @@ Paper "Towards An Efficient and Effective En Route Travel Time Estimation Framew
 <div class='paper-box-text' markdown="1">
 [Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)\\
 Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; Yiheng Huang; Huaiyu Wan
+    </div>
+</div>
 
 
 
@@ -44,9 +46,19 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 DASFAA</div><img src='../images/UQERTTE.jpg' alt="ER-TTE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Towards An Efficient and Effective En Route Travel Time Estimation Framework](./)\\
 **Zekai Shen**, Haitao Yuan, Xiaowei Mao, Congkang Lv, Shengnan Guo, Youfang Lin, Huaiyu Wan. 
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
 
 # 🎖 Honors and Awards
 
