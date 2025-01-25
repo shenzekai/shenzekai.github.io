@@ -38,6 +38,10 @@ Paper "Towards An Efficient and Effective En Route Travel Time Estimation Framew
 [Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)\\
 Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; Yiheng Huang; Huaiyu Wan
 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 DASFAA</div><img src='../images/UQERTTE.jpg' alt="ER-TTE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
