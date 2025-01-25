@@ -40,10 +40,6 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
     </div>
 </div>
 
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 DASFAA</div><img src='../images/UQERTTE.jpg' alt="ER-TTE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards An Efficient and Effective En Route Travel Time Estimation Framework](./)\\
@@ -51,19 +47,10 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
 # 🎖 Honors and Awards
 
 1. First Prize Scholarship of Beijing Jiaotong University, 2022.(Top 5%)
-2. First Prize Scholarship of Beijing Jiaotong University, 2023.(Top 5%)
+2. First Prize Scholarship of Beijing Jiaotong University, 2023.(Top 5%)‘
 
 # 📖 Educations
 - <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2022.06 - 2025.06 (expected)*,  Master,  Beijing Jiaotong University, 
