@@ -35,6 +35,7 @@ I“m willing to share interesting papers about **spatial-temporal data** and **
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 ICDE</div><img src='../images/SSTBAN.png' alt="SSTBAN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/10184658)\\
 Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; Yiheng Huang; Huaiyu Wan
     </div>
@@ -46,6 +47,7 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 DASFAA</div><img src='../images/UQERTTE.jpg' alt="ER-TTE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Towards An Efficient and Effective En Route Travel Time Estimation Framework](./)\\ **Zekai Shen**, Haitao Yuan, Xiaowei Mao, Congkang Lv, Shengnan Guo, Youfang Lin, Huaiyu Wan. 
     </div>
 </div>
