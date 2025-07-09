@@ -21,7 +21,7 @@ Hi, this is Zekai Shen(申泽楷)'s Home Page I received the B.S. degree from Be
 
 My research interest includes **Spatial-Temporal Data Mining** and **Uncertainty Quantification**. 
 
-I“m willing to share interesting papers about **spatial-temporal data** and **time series**. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "[时空探索之旅](https://mp.weixin.qq.com/s/Y0rszFAeNplIbK1X-po9Qw)" ，Here is the QR Code of official accout：
+I“m willing to share interesting papers about **spatial-temporal data** and **time series**. If you are interested, You can follow my  [Zhihu](https://www.zhihu.com/people/no1wds) and Official account named "[时空探索之旅](https://mp.weixin.qq.com/s/Y0rszFAeNplIbK1X-po9Qw)" ，Here is the QR Code of official account：
 
 ![时空探索之旅](../images/ST_exploration.jpg#pic_center=30x30)
 
@@ -44,19 +44,26 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 DASFAA</div><img src='../images/UQERTTE.jpg' alt="SSTBAN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards An Efficient and Effective En Route Travel Time Estimation Framework](./)\\
+[Towards An Efficient and Effective En Route Travel Time Estimation Framework](https://arxiv.org/abs/2504.04086)\\
 **Zekai Shen**, Haitao Yuan, Xiaowei Mao, Congkang Lv, Shengnan Guo, Youfang Lin, Huaiyu Wan.
 </div>
 </div>
 
+
 # 🎖 Honors and Awards
 
 1. First Prize Scholarship of Beijing Jiaotong University, 2022.(Top 5%)
-2. First Prize Scholarship of Beijing Jiaotong University, 2023.(Top 5%)‘
+2. First Prize Scholarship of Beijing Jiaotong University, 2023.(Top 5%)
+3. First Prize Scholarship of Beijing Jiaotong University, 2024.(Top 5%)
+4. Outstanding Graduates of Beijing Jiaotong University, 2025
 
 # 📖 Educations
-- <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2022.06 - 2025.06 (expected)*,  Master,  Beijing Jiaotong University, 
+- <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2022.06 - 2025.06*,  Master,  Beijing Jiaotong University, 
 - <a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/BJTU.png" width="46pt"></a> *2018.09 - 2022.06*, Undergraduate,  Beijing Jiaotong University. 
+
+# 💻 Internships
+
+<a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/Bytedance.jfif" width="46pt"></a> *2025.04 - 2025.06*, Algorithm intern ,  Bytedance. 
 
 #  Activities
 
@@ -78,4 +85,3 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 # 💬 Invited Talks
 
-# 💻 Internships
