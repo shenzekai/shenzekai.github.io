@@ -63,7 +63,7 @@ Shengnan Guo; Youfang Lin; Letian Gong; Chenyu Wang; Zeyu Zhou; **Zekai Shen**; 
 
 # 💻 Internships
 
-<a href="https://bjtu.edu.cn/"><img class="jpg" src="../images/Bytedance.jfif" width="46pt"></a> *2025.04 - 2025.06*, Algorithm intern ,  Bytedance. 
+<a href="https://www.bytedance.com/"><img class="jpg" src="../images/Bytedance.jfif" width="46pt"></a> *2025.04 - 2025.06*, Algorithm intern ,  Bytedance. 
 
 #  Activities
 
