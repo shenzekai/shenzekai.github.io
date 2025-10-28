@@ -20,23 +20,23 @@ layout: compress
 
     <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
       {% if page.title %}
-      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{%
-      endif %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+      {% endif %}
       <div class="page__inner-wrap">
         <section class="page__content" itemprop="text">
           {{ content }}
         </section>
       </div>
     </article>
-    {% include scripts.html %}
-    <!-- 🌍 ClustrMaps visitor map -->
-    <div align="center" style="margin-top: 20px;">
-      <script type="text/javascript" id="mmvst_globe"
-        src="//mapmyvisitors.com/globe.js?d=BTnp8Q_f-0AjE-P6SUrTuAfwBltcZalOfBlbDbxxQuQ"></script>
-    </div>
   </div>
 
+  {% include scripts.html %}
 
+  <!-- 🌍 ClustrMaps / MapMyVisitors globe -->
+  <div align="center" style="margin: 30px 0;">
+    <script type="text/javascript" id="mmvst_globe"
+      src="//mapmyvisitors.com/globe.js?d=BTnp8Q_f-0AjE-P6SUrTuAfwBltcZalOfBlbDbxxQuQ"></script>
+  </div>
 
 </body>
 
