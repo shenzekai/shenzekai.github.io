@@ -32,28 +32,11 @@ layout: compress
 
   {% include scripts.html %}
 
-  {% include scripts.html %}
-
   <!-- 🌍 MapMyVisitors Globe -->
-  <div align="center" id="visitor-map"></div>
-
-  <style>
-    #visitor-map,
-    #visitor-map canvas {
-      display: block !important;
-      opacity: 1 !important;
-      visibility: visible !important;
-      z-index: 1000 !important;
-    }
-  </style>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      var s = document.createElement("script");
-      s.src = "https://mapmyvisitors.com/globe.js?d=BTnp8Q_f-0AjE-P6SUrTuAfwBltcZalOfBlbDbxxQuQ";
-      document.getElementById("visitor-map").appendChild(s);
-    });
-  </script>
+  <div align="center">
+    <script type="text/javascript" id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?d=cU313mv91o0BR8bPrT2-8MjfHNxXNd8ceZSYpmXJjGU&cl=ffffff&w=a"></script>
+  </div>
 </body>
 
 </html>
